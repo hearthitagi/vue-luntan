@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "6240302050db0165372050fb"
+  },
+  "categoryId": "1",
+  "cover": "http://59.110.124.95:3000/images/fanju.jpg",
+  "name": "番剧"
+},{
+  "_id": {
+    "$oid": "6240308250db0165372050fc"
+  },
+  "categoryId": "2",
+  "cover": "http://59.110.124.95:3000/images/manhua.jpg",
+  "name": "漫画"
+},{
+  "_id": {
+    "$oid": "6240308750db0165372050fd"
+  },
+  "categoryId": "3",
+  "cover": "http://59.110.124.95:3000/images/xiaoshuo.jpg",
+  "name": "小说"
+},{
+  "_id": {
+    "$oid": "624030a550db0165372050fe"
+  },
+  "categoryId": "4",
+  "cover": "http://59.110.124.95:3000/images/youxi.jpg",
+  "name": "游戏"
+},{
+  "_id": {
+    "$oid": "624030b550db0165372050ff"
+  },
+  "categoryId": "5",
+  "cover": "http://59.110.124.95:3000/images/zhishi.jpg",
+  "name": "知识"
+},{
+  "_id": {
+    "$oid": "6240367550db016537205104"
+  },
+  "categoryId": "6",
+  "cover": "http://59.110.124.95:3000/images/chahua.jpg",
+  "name": "插画"
+}]

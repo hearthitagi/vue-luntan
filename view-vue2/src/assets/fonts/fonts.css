@@ -1,0 +1,14 @@
+@font-face{
+    font-family: 'HarmonyOS';
+    /* 重命名字体名 */
+    src: url('./HarmonyOS.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+    font-family: 'playball';
+    /* 重命名字体名 */
+    src: url('./Playball.ttf');
+    font-weight: normal;
+    font-style: normal;
+}

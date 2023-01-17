@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "62402ce450db0165372050f5"
+  },
+  "loginName": "111111",
+  "password": "111111",
+  "userName": "recreyed",
+  "avatar": "http://59.110.124.95:3000/images/1651132616965-avatar.jpg",
+  "email": "1760603940@qq.com",
+  "phone": "15130513325",
+  "remark": "第一名用户：sssvip",
+  "sex": 2,
+  "friends": [
+    "62578aa5727f3ce43e4e05b8",
+    "62623bac86f03f3f84a37654"
+  ]
+},{
+  "_id": {
+    "$oid": "62578aa5727f3ce43e4e05b8"
+  },
+  "loginName": "222222",
+  "password": "222222",
+  "userName": "测试员2号",
+  "sex": 1,
+  "remark": "我心已死",
+  "email": "",
+  "phone": "",
+  "avatar": "http://59.110.124.95:3000/images/1649904714381-admin.jpg",
+  "__v": 0,
+  "friends": [
+    "62402ce450db0165372050f5",
+    "62623bac86f03f3f84a37654"
+  ]
+},{
+  "_id": {
+    "$oid": "62623bac86f03f3f84a37654"
+  },
+  "loginName": "333333",
+  "password": "333333",
+  "userName": "测试员3号",
+  "sex": 1,
+  "remark": "无敌的",
+  "email": "",
+  "phone": "",
+  "avatar": "http://59.110.124.95:3000/images/1651195503635-meihua13.png",
+  "__v": 0,
+  "friends": [
+    "62402ce450db0165372050f5",
+    "62578aa5727f3ce43e4e05b8"
+  ]
+}]
